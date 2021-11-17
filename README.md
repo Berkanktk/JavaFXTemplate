@@ -11,3 +11,8 @@ A simple JavaFX repository that should ease the understanding of how JavaFX work
 # Downloads
 **JavaFX Library:** [Download](https://gluonhq.com/products/javafx/)  
 **SceneBuilde:** [Download](https://gluonhq.com/products/scene-builder/)
+
+# Other Introductions (Tutorials)
+**JavaFX SDK:** [See here](https://openjfx.io/openjfx-docs/#install-javafx)  
+**Maven:** [See here](https://openjfx.io/openjfx-docs/#maven)  
+**Gradle:** [See here](https://openjfx.io/openjfx-docs/#gradle)

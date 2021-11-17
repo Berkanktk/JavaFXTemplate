@@ -7,3 +7,7 @@ A simple JavaFX repository that should ease the understanding of how JavaFX work
 3. Paste this: `--module-path "PATH_TO_THE_LIB_FOLDER" --add-modules javafx.controls,javafx.fxml`
 4. Hit Apply
 5. Add fxml files under the resources folder and create some controllers for each fxml file.
+
+# Downloads
+**JavaFX Library:** [Download](https://gluonhq.com/products/javafx/)  
+**SceneBuilde:** [Download](https://gluonhq.com/products/scene-builder/)
